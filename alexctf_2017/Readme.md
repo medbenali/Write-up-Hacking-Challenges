@@ -13,7 +13,7 @@
 
 We have this image :
 
-![](https://github.com/medbenali/Write-up-Hacking-Challenges/blob/master/Root%20Me/Steganography/Squared/ch2.jpg)
+![](https://github.com/medbenali/Write-up-Hacking-Challenges/blob/master/alexctf_2017/cat_with_secrets.png)
 
 After reading the hint given we  search the python librairies made in [japan](https://pypi.python.org/pypi?%3Aaction=search&term=japanese)
 
