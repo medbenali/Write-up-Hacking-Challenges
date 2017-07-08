@@ -28,7 +28,7 @@ from steganography.steganography import Steganography
 print Steganography.decode("cat_with_secrets.png")
 ```
 
-After running this **script**(https://pypi.python.org/pypi/steganography/0.1.1) we get the flag : 
+After running this [**script**](https://pypi.python.org/pypi/steganography/0.1.1) we get the flag : 
 
 	
 
