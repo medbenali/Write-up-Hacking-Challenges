@@ -28,7 +28,11 @@ from steganography.steganography import Steganography
 print Steganography.decode("cat_with_secrets.png")
 ```
 
-After running this [script](https://github.com/medbenali/Write-up-Hacking-Challenges/blob/master/alexctf_2017/script.py) we get the flag : 
+After running this [script](https://github.com/medbenali/Write-up-Hacking-Challenges/blob/master/alexctf_2017/script.py) we get the flag :
+
+![](https://github.com/medbenali/Write-up-Hacking-Challenges/blob/master/alexctf_2017/flag.png)
+
+ 
 
 
 
